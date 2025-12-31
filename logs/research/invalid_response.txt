@@ -1,0 +1,24 @@
+Query: Yamuna River data and statistics
+
+Summary:
+Gemini could not parse the result.
+
+---
+
+Full Text:
+```json
+{
+  "should_search": true,
+  "summary": "The Yamuna River is a major river in North India, originating from the Yamunotri Glacier in the Himalayas and flowing approximately 1,376 kilometers to its confluence with the Ganges at Triveni Sangam in Prayagraj (Allahabad). It is a crucial water source for irrigation, drinking water, and industrial use, supporting a large population across several states including Uttarakhand, Haryana, Delhi, and Uttar Pradesh. However, the Yamuna is heavily polluted, especially as it flows through urban centers like Delhi, due to discharge of untreated sewage, industrial effluents, and agricultural runoff. This pollution poses significant threats to public health, aquatic life, and the overall ecosystem. Various government initiatives, such as the Yamuna Action Plan (YAP), have been implemented to address the pollution issues, but their effectiveness has been limited. The river's water quality fluctuates significantly along its course, with some stretches exhibiting relatively clean water while others are severely degraded. Data on water quality parameters, flow rates, and pollution levels are essential for effective river management and restoration efforts.",
+  "filename": "yamuna_river_data.txt",
+  "raw_text": "The Yamuna River is a significant river in North India, originating from the Yamunotri Glacier at an elevation of about 6,387 meters. Its total length is approximately 1,376 kilometers. The river traverses through several states, including Uttarakhand, Haryana, Delhi, and Uttar Pradesh, before merging with the Ganges at Triveni Sangam in Prayagraj. The Yamuna basin is densely populated and heavily reliant on the river for water resources, including irrigation, drinking water supply, and industrial activities. The river's flow regime varies seasonally, with peak flows during the monsoon season and reduced flows during the dry season.
+
+  Pollution is a major concern for the Yamuna River, particularly in the stretch passing through Delhi. The primary sources of pollution include untreated or partially treated sewage from urban areas, industrial effluents containing heavy metals and toxic chemicals, and agricultural runoff carrying fertilizers and pesticides. The high levels of pollution have led to severe degradation of water quality, impacting aquatic life and posing risks to human health. The presence of pollutants such as coliform bacteria, heavy metals, and organic matter exceeds permissible limits in many stretches of the river.
+
+  Several initiatives have been launched to address the pollution issues in the Yamuna River, including the Yamuna Action Plan (YAP) and other projects aimed at improving sewage treatment infrastructure and reducing industrial discharge. However, the effectiveness of these efforts has been limited due to factors such as inadequate infrastructure, operational inefficiencies, and lack of coordination among various stakeholders. Monitoring of water quality parameters, such as dissolved oxygen (DO), biochemical oxygen demand (BOD), and chemical oxygen demand (COD), is regularly conducted by various agencies to assess the river's health and track the impact of pollution control measures. Data on flow rates, pollution loads, and water quality trends are crucial for developing effective strategies for river management and restoration.",
+  "links": [
+    "https://cpcb.nic.in/",
+    "https://jalshakti-dowr.gov.in/"
+  ]
+}
+```

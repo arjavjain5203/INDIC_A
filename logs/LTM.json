@@ -1,0 +1,148 @@
+{
+  "personal_info": {
+    "full_name": "Your Name Here",
+    "birth_date": "YYYY-MM-DD",
+    "gender": "Your Gender",
+    "location": "Your City, Country",
+    "languages": ["English (Fluent)", "Your Native Language", "Optional Language"],
+    "personality_traits": ["Ambitious", "Curious", "Analytical"]
+  },
+
+  "projects": [
+    "Your AI Assistant Project"
+  ],
+
+  "academic": {
+    "degree": "Your Degree & College Info",
+    "exams": ["Relevant Competitive Exam 1", "Exam 2"],
+    "courses": {
+      "ongoing": ["Current Course"],
+      "paused": ["Paused Course"]
+    },
+    "achievements": [
+      "Presented a Research Paper",
+      "Intermediate in Tech Stack X; Beginner in Y"
+    ]
+  },
+
+  "professional": {
+    "roles": ["Your Role 1", "Role 2"],
+    "organization": "Organization Name",
+    "focus_areas": ["AI/ML", "Web Development", "Privacy Tech", "Full-stack Projects"],
+    "career_goals": ["PhD/Internships", "Advanced Research"]
+  },
+
+  "finance": {
+    "spotify": {
+      "plan": "",
+      "members": 6,
+      "your_contribution": 180,
+      "collected_from_each": 40
+    },
+    "goals": {
+      "monthly_income_target": 10000,
+      "methods": "Side Income from Tech Projects"
+    },
+    "strategies": [
+      "Avoid risky investments",
+      "No reselling",
+      "Cost-sharing with peers",
+      "Track subscriptions"
+    ]
+  },
+
+  "preferences": {
+    "hobbies": ["Cycling", "Coding", "Watching Movies", "Debating", "Football"],
+    "themes": ["Espionage", "Luxury", "Minimalism"],
+    "interests": ["AI", "Systems", "Web Dev", "Research"],
+    "favorites": {
+      "show": "Favorite Show Here",
+      "character_arc": "Preferred Character Arc"
+    },
+    "assistant_tone": "Witty, intelligent, slightly sarcastic but respectful"
+  },
+
+  "social_media": {
+    "platforms": ["Instagram", "LinkedIn", "GitHub", "YouTube"],
+    "usage": {
+      "Instagram": "Personal & Casual",
+      "LinkedIn": "Networking & Updates",
+      "GitHub": "Showcasing Projects",
+      "YouTube": "Learning & Fun"
+    }
+  },
+
+  "technical_skills": {
+    "languages": ["Python", "C++", "HTML", "CSS", "JavaScript"],
+    "frameworks": ["Flask", "FastAPI", "Django", "TensorFlow", "Bootstrap"],
+    "tools": ["Git", "Figma", "VS Code", "Linux", "Google Colab"],
+    "ai_ml": ["CNNs", "NLP", "XGBoost", "SHAP", "Prompt Engineering"],
+    "web_dev": ["Full-stack Dev", "Responsive Design", "Server Mgmt"]
+  },
+
+  "relationships": {
+    "family": {
+      "sister": {
+        "name": "Sibling Name",
+        "age": "Age",
+        "relation": "Close",
+        "context": "Shared subscriptions"
+      },
+      "mother": {
+        "name": "Parent Name",
+        "age": "Age",
+        "relation": "Supportive",
+        "context": "Encourages personal growth"
+      },
+      "father": {
+        "name": "Parent Name",
+        "age": "Age",
+        "relation": "Close",
+        "context": "Skilled and resourceful"
+      },
+      "younger_brother": {
+        "name": "Sibling Name",
+        "age": "Age",
+        "relation": "Playful",
+        "context": "Fun but sometimes annoying"
+      }
+    },
+    "college": {
+      "groups": {
+        "Debate Club": {
+          "role": "Former Member",
+          "context": "Engaged in public speaking"
+        },
+        "Sustainability Group": {
+          "role": "R&D Lead",
+          "context": "Environmental research"
+        },
+        "Tech Club": {
+          "role": "Core Member",
+          "context": "Coding competitions & projects"
+        }
+      }
+    }
+  },
+
+  "emotional_memory": {
+    "pride": "Building my AI assistant from scratch",
+    "humor": "Giving it a funny personality",
+    "joys": ["Debugging complex systems", "Creating clever AI interactions"]
+  },
+
+  "vision_and_goals": {
+    "short_term": [
+      "Build AI UI",
+      "Add social media integration",
+      "Complete memory framework"
+    ],
+    "long_term": [
+      "Run AI fully offline",
+      "Enable multi-agent orchestration",
+      "Achieve near-human productivity"
+    ],
+    "ultimate_vision": "Build a truly autonomous, context-aware personal AI"
+  }
+}
+
